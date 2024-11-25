@@ -1,4 +1,4 @@
-# DS4031_project# Diabetes Prediction Project
+# Diabetes Prediction Project
 
 Welcome to the **Diabetes Prediction Project**, a machine learning and deep learning-based system designed to predict the likelihood of diabetes occurrence. This repository contains the code, data, and documentation for the project, conducted as part of the **IUST University (4031 semester)** coursework.
 
