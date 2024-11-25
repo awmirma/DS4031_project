@@ -48,6 +48,7 @@ Deep Learning models also performed well:
 ```bash
 pip install -r requirements.txt
 python main.py
+```
 ---
 
 ## 🖥️ Usage
